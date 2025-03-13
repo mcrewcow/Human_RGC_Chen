@@ -1,0 +1,10 @@
+Package: HRCAv1
+Type: Package
+Title: RGC clustering
+Version: 0.1.0
+Author: Emil Kriukov
+Encoding: UTF-8
+LazyData: true
+Suggests: org.Hs.eg.db
+Imports: scClustViz
+Remotes: BaderLab/scClustViz
